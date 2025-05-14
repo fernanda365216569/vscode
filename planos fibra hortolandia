@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Planos Fibra Hortolândia</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #fff;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+
+    .hero {
+      text-align: center;
+      padding: 40px 20px;
+      background-color: #f8f8f8;
+    }
+
+    .hero h1 {
+      font-size: 32px;
+      margin-bottom: 10px;
+    }
+
+    .hero p {
+      font-size: 18px;
+      color: #555;
+    }
+
+    .button {
+      display: inline-block;
+      margin-top: 20px;
+      background-color: #25D366;
+      color: white;
+      padding: 12px 24px;
+      text-decoration: none;
+      border-radius: 6px;
+      font-weight: bold;
+    }
+
+    h2 {
+      margin-top: 40px;
+      font-size: 24px;
+      border-bottom: 2px solid #eee;
+      padding-bottom: 10px;
+    }
+
+    .plan, .promo-item, .coverage-item {
+      margin: 12px 0;
+    }
+
+    .footer {
+      margin-top: 50px;
+      padding: 20px;
+      background-color: #f0f0f0;
+      border-top: 1px solid #ddd;
+    }
+
+    .footer a {
+      color: #25D366;
+      text-decoration: none;
+    }
+
+    .contact-item {
+      margin: 6px 0;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+
+    <div class="hero">
+      <h1>Planos Fibra Hortolândia</h1>
+      <p>Internet rápida, estável e com o melhor custo-benefício!</p>
+      <a class="button" href="https://wa.me/5519920021868?text=Olá%2C+quero+saber+mais+sobre+os+planos+de+internet+em+Hortolândia" target="_blank">
+        Fale no WhatsApp
+      </a>
+    </div>
+
+    <h2>Planos Disponíveis</h2>
+    <div class="plan"><strong>200 Mega</strong> – R$79,90<br><small>Wi-Fi grátis, instalação inclusa</small></div>
+    <div class="plan"><strong>600 Mega</strong> – R$109,90<br><small>Ideal para vídeos, reuniões, jogos</small></div>
+    <div class="plan"><strong>1 Giga</strong> – R$119,90<br><small>Ultra velocidade, família conectada</small></div>
+    <div class="plan"><strong>Combo Internet + TV</strong> – R$129,90<br><small>Economia com entretenimento</small></div>
+
+    <h2>Promoções</h2>
+    <div class="promo-item">📦 Instalação grátis em toda região</div>
+    <div class="promo-item">🎉 1º pagamento completo somente pra daqui 45 dias</div>
+
+    <h2>Áreas Atendidas</h2>
+    <div class="coverage-item">Jardim Amanda</div>
+    <div class="coverage-item">Jardim Rosolém</div>
+    <div class="coverage-item">Jardim Nova Hortolândia</div>
+    <div class="coverage-item">Jardim Interlagos</div>
+    <div class="coverage-item">Vila Real</div>
+    <div class="coverage-item">Parque Gabriel</div>
+
+    <h2>Sobre</h2>
+    <p>Parceiros autorizados Desktop com mais de 150 clientes satisfeitos.</p>
+
+    <div class="footer">
+      <h2>Contato</h2>
+      <div class="contact-item">Instagram: <a href="https://instagram.com/planosfibra.hortolandia" target="_blank">@planosfibra.hortolandia</a></div>
+      <div class="contact-item">WhatsApp 1: (19) 92002-1868</div>
+      <div class="contact-item">WhatsApp 2: (19) 92003-7452</div>
+      <div class="contact-item">Localização: Hortolândia - SP</div>
+    </div>
+
+  </div>
+
+</body>
+</html>
